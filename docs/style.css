@@ -435,7 +435,10 @@ transform: scale(1.1);
 }
 /* mobile */
 @media (max-width: 480px) {
-
+#cz{
+    justify-content: center;
+    align-items: center;
+}
     
     
 .contactbtn{
