@@ -436,7 +436,9 @@ transform: scale(1.1);
 /* mobile */
 @media (max-width: 480px) {
 
-
+.contactbtn{
+    height: fit-content;
+}
     #ulOfHeader{
         flex-wrap: wrap;
     justify-content:center;
@@ -534,4 +536,5 @@ li a{
 .list{
     margin: 0;
     padding: 0;
+
 }
