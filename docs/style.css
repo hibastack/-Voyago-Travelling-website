@@ -515,11 +515,13 @@ margin-right: 70px;
 .c2{
     display: flex;
     justify-content: center;
+    align-items: center;
      margin-left: 30px;
 }
 .c3{
     display: flex;
     justify-content: center;
+    align-items: center;
      margin-left: 30px;
 }
 .contact{
