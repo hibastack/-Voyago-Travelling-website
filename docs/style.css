@@ -436,9 +436,7 @@ transform: scale(1.1);
 /* mobile */
 @media (max-width: 480px) {
 
-    #cz{
-        justify-content: center;
-        align-items: center;
+    
     }
 .contactbtn{
     height: fit-content;
@@ -514,13 +512,15 @@ margin-right: 70px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 30px;
+     margin-left: 50px;
+     margin-right: 50px;
 }
 .c2{
     display: flex;
     justify-content: center;
     align-items: center;
-     margin-left: 30px;
+    margin-left: 50px;
+     margin-right: 50px;
 }
 .c3{
     display: flex;
